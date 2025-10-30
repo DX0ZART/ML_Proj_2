@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Datasets
+data/
+out/
+COVID-19_Radiography_Dataset/
